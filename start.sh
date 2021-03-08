@@ -1,0 +1,1 @@
+python web_opener.py --platform_version 7.1 --device_name 721HECRN265FG
