@@ -22,7 +22,7 @@
 ## Как это дело запустить
 
 1. Выполнить в консоли: `appium --allow-insecure chromedriver_autodownload`
-2. Выполнить в другом окне консоли: `python web_opener.py --platform_version {версия Android} --device_name {имя девайся}` (пример можно посмотреть в файле `start.sh`)
+2. Выполнить в другом окне консоли: `python web_opener.py --platform_version {версия Android} --device_name {имя девайса}` (пример можно посмотреть в файле `start.sh`)
 3. Должны появиться файлы `ip.txt` и `page.png`: ip устройства и скриншот страницы
 
 ## На что еще обратить внимание
